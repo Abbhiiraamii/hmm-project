@@ -6,7 +6,6 @@ Name: Abhirami S
 Registration Number: TCR24CS003  
 
   
-student 2:
 Name:Jovial James  
 
 Registration Number: TCR24CS040  
