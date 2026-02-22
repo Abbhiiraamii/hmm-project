@@ -1,13 +1,16 @@
 # HMM Project – Baum-Welch Visualization
 
 ## Student Information
-student1:
-Name: Abhirami S,
-Registration Number: TCR24CS003
+Name: Abhirami S  
 
+Registration Number: TCR24CS003  
+
+  
 student 2:
-Name:Jovial James,
-Registration Number: TCR24CS040
+Name:Jovial James  
+
+Registration Number: TCR24CS040  
+
 ---
 
 ## Description
