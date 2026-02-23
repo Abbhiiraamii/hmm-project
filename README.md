@@ -29,7 +29,10 @@ The application:
 
 The project is deployed and accessible here:
 
-https://your-render-link.onrender.com
+https://your-render-link.onrender.com  
+**Click on the state diagram to see the transition and emission matrices.** 
+**The final iteration shows the trained model parameters.**
+
 
 ---
 ## Requirements
